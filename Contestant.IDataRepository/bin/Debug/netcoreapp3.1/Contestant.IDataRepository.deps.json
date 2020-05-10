@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contestant.IDataRepository/1.0.0": {
+        "dependencies": {
+          "Contestant.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "Contestant.IDataRepository.dll": {}
+        }
+      },
+      "Contestant.ICommon/1.0.0": {
+        "runtime": {
+          "Contestant.ICommon.dll": {}
+        }
+      },
+      "Contestant.ViewModels/1.0.0": {
+        "dependencies": {
+          "Contestant.ICommon": "1.0.0"
+        },
+        "runtime": {
+          "Contestant.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contestant.IDataRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contestant.ICommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contestant.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

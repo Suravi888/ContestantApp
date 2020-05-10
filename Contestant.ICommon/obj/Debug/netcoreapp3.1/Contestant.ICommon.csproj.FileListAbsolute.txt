@@ -1,0 +1,13 @@
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.deps.json
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.runtimeconfig.json
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.runtimeconfig.dev.json
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.csprojAssemblyReference.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.csproj.CoreCompileInputs.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.AssemblyInfoInputs.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.AssemblyInfo.cs
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.dll
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.genruntimeconfig.cache

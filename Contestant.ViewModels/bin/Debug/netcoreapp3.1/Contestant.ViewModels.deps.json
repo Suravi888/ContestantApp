@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contestant.ViewModels/1.0.0": {
+        "dependencies": {
+          "Contestant.ICommon": "1.0.0"
+        },
+        "runtime": {
+          "Contestant.ViewModels.dll": {}
+        }
+      },
+      "Contestant.ICommon/1.0.0": {
+        "runtime": {
+          "Contestant.ICommon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contestant.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contestant.ICommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

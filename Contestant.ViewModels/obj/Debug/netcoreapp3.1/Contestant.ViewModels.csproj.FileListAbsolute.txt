@@ -1,0 +1,17 @@
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.exe
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.deps.json
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.runtimeconfig.json
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.runtimeconfig.dev.json
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.dll
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csprojAssemblyReference.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.AssemblyInfoInputs.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.AssemblyInfo.cs
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.dll
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.genruntimeconfig.cache
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csproj.CopyComplete
