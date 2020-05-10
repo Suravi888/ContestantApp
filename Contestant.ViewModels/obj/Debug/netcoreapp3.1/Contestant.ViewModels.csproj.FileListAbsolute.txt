@@ -15,3 +15,20 @@ C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netco
 C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
 C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
 C:\Users\suresh\source\repos\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.deps.json
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.runtimeconfig.json
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.runtimeconfig.dev.json
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csprojAssemblyReference.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csproj.CoreCompileInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.AssemblyInfoInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.AssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.ViewModels\obj\Debug\netcoreapp3.1\Contestant.ViewModels.genruntimeconfig.cache

@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contestant.ICommon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Contestant.ICommon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contestant.ICommon.dll": {}
+        }
+      },
+      "Contestant.IDataRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contestant.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contestant.IDataRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contestant.IDataRepository.dll": {}
+        }
+      },
+      "Contestant.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contestant.ICommon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contestant.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contestant.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contestant.ICommon/1.0.0": {
+      "type": "project",
+      "path": "../Contestant.ICommon/Contestant.ICommon.csproj",
+      "msbuildProject": "../Contestant.ICommon/Contestant.ICommon.csproj"
+    },
+    "Contestant.IDataRepository/1.0.0": {
+      "type": "project",
+      "path": "../Contestant.IDataRepository/Contestant.IDataRepository.csproj",
+      "msbuildProject": "../Contestant.IDataRepository/Contestant.IDataRepository.csproj"
+    },
+    "Contestant.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../Contestant.ViewModels/Contestant.ViewModels.csproj",
+      "msbuildProject": "../Contestant.ViewModels/Contestant.ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Contestant.IDataRepository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\suresh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\Contestant.Helpers.csproj",
+      "projectName": "Contestant.Helpers",
+      "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\Contestant.Helpers.csproj",
+      "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
+      "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
+              "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

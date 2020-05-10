@@ -11,3 +11,16 @@ C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcorea
 C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.dll
 C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.pdb
 C:\Users\suresh\source\repos\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.genruntimeconfig.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.deps.json
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.runtimeconfig.json
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.runtimeconfig.dev.json
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.csprojAssemblyReference.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.csproj.CoreCompileInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.AssemblyInfoInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.AssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.ICommon\obj\Debug\netcoreapp3.1\Contestant.ICommon.genruntimeconfig.cache

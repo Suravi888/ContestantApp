@@ -29,3 +29,34 @@ C:\Users\suresh\source\repos\ContestantApp\Contestant.Models\obj\Debug\netcoreap
 C:\Users\suresh\source\repos\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
 C:\Users\suresh\source\repos\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
 C:\Users\suresh\source\repos\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.Models.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.Models.deps.json
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.Models.runtimeconfig.json
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.Models.runtimeconfig.dev.json
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.Models.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.Models.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.csprojAssemblyReference.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.csproj.CoreCompileInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.AssemblyInfoInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.AssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.Models\obj\Debug\netcoreapp3.1\Contestant.Models.genruntimeconfig.cache

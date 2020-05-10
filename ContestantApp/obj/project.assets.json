@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\ContestantApp\\ContestantApp.csproj",
+      "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\ContestantApp\\ContestantApp.csproj",
       "projectName": "ContestantApp",
-      "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\ContestantApp\\ContestantApp.csproj",
+      "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\ContestantApp\\ContestantApp.csproj",
       "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\ContestantApp\\obj\\",
+      "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\ContestantApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",

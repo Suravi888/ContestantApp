@@ -6105,11 +6105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.Repository\\Contestant.Repository.csproj",
+      "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Repository\\Contestant.Repository.csproj",
       "projectName": "Contestant.Repository",
-      "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.Repository\\Contestant.Repository.csproj",
+      "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Repository\\Contestant.Repository.csproj",
       "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.Repository\\obj\\",
+      "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6125,17 +6125,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
-              "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj"
+            "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
+              "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj"
             },
-            "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
-              "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj"
+            "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
+              "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj"
             },
-            "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.Models\\Contestant.Models.csproj": {
-              "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.Models\\Contestant.Models.csproj"
+            "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Models\\Contestant.Models.csproj": {
+              "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Models\\Contestant.Models.csproj"
             },
-            "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj"
+            "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
+              "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj"
             }
           }
         }

@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\Contestant.Helpers.csproj": {}
+  },
+  "projects": {
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\Contestant.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\Contestant.Helpers.csproj",
+        "projectName": "Contestant.Helpers",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\Contestant.Helpers.csproj",
+        "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
+                "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
+        "projectName": "Contestant.ICommon",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
+        "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj",
+        "projectName": "Contestant.IDataRepository",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj",
+        "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
+                "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj",
+        "projectName": "Contestant.ViewModels",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
+                "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

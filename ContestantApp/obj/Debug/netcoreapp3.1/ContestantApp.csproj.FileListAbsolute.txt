@@ -35,3 +35,40 @@ C:\Users\suresh\source\repos\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1
 C:\Users\suresh\source\repos\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.pdb
 C:\Users\suresh\source\repos\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.genruntimeconfig.cache
 C:\Users\suresh\source\repos\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.exe
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.deps.json
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.runtimeconfig.json
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.runtimeconfig.dev.json
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.dll
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.pdb
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.Views.dll
+F:\PRIYA STUFF\ContestantApp\ContestantApp\bin\Debug\netcoreapp3.1\ContestantApp.Views.pdb
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.csprojAssemblyReference.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.csproj.CoreCompileInputs.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.MvcApplicationPartsAssemblyInfo.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.RazorAssemblyInfo.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.RazorAssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.AssemblyInfoInputs.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.AssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.TagHelpers.input.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.TagHelpers.output.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.RazorCoreGenerate.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.RazorTargetAssemblyInfo.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.RazorTargetAssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.Views.pdb
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\staticwebassets\ContestantApp.StaticWebAssets.Manifest.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\staticwebassets\ContestantApp.StaticWebAssets.xml
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.dll
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.pdb
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.genruntimeconfig.cache
+F:\PRIYA STUFF\ContestantApp\ContestantApp\obj\Debug\netcoreapp3.1\ContestantApp.csproj.CopyComplete

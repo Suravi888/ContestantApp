@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contestant.IDataRepository"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contestant.ICommon", "Contestant.ICommon\Contestant.ICommon.csproj", "{6B7706A6-8FC8-429E-8669-1A8CF4C08D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contestant.General", "Contestant.General\Contestant.General.csproj", "{B79CF172-F594-4FE2-91B1-3F22EAC93F36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contestant.General", "Contestant.General\Contestant.General.csproj", "{B79CF172-F594-4FE2-91B1-3F22EAC93F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contestant.Helpers", "Contestant.Helpers\Contestant.Helpers.csproj", "{2C351AE5-4AAE-4FC0-BA05-C8C4373B4437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{B79CF172-F594-4FE2-91B1-3F22EAC93F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B79CF172-F594-4FE2-91B1-3F22EAC93F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B79CF172-F594-4FE2-91B1-3F22EAC93F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C351AE5-4AAE-4FC0-BA05-C8C4373B4437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C351AE5-4AAE-4FC0-BA05-C8C4373B4437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C351AE5-4AAE-4FC0-BA05-C8C4373B4437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C351AE5-4AAE-4FC0-BA05-C8C4373B4437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{E9AC3C10-43A9-4A60-8F6D-19FFDF485A64} = {414E02E1-927E-4C4C-B4BC-30930D1491AF}
 		{6B7706A6-8FC8-429E-8669-1A8CF4C08D3D} = {414E02E1-927E-4C4C-B4BC-30930D1491AF}
 		{B79CF172-F594-4FE2-91B1-3F22EAC93F36} = {19F0EE6F-6076-444C-90AB-F7E930CCCB9A}
+		{2C351AE5-4AAE-4FC0-BA05-C8C4373B4437} = {414E02E1-927E-4C4C-B4BC-30930D1491AF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6C9FED8D-EE4B-4901-BC6B-9BB39AFDF64B}

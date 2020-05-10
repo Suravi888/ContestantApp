@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {}
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
         "projectName": "Contestant.ICommon",
-        "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
         "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\obj\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj",
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj",
         "projectName": "Contestant.IDataRepository",
-        "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\Contestant.IDataRepository.csproj",
         "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.IDataRepository\\obj\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.IDataRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj"
+              "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
+                "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj"
               }
             }
           }
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj",
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj",
         "projectName": "Contestant.ViewModels",
-        "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\Contestant.ViewModels.csproj",
         "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ViewModels\\obj\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,8 +135,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
-                "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj"
+              "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
+                "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj"
               }
             }
           }

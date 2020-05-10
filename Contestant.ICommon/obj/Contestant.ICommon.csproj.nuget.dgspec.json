@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {}
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
+    "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
+        "projectUniqueName": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
         "projectName": "Contestant.ICommon",
-        "projectPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
+        "projectPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\Contestant.ICommon.csproj",
         "packagesPath": "C:\\Users\\suresh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suresh\\source\\repos\\ContestantApp\\Contestant.ICommon\\obj\\",
+        "outputPath": "F:\\PRIYA STUFF\\ContestantApp\\Contestant.ICommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suresh\\AppData\\Roaming\\NuGet\\NuGet.Config",

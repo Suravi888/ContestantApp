@@ -29,3 +29,36 @@ C:\Users\suresh\source\repos\ContestantApp\Contestant.General\obj\Debug\netcorea
 C:\Users\suresh\source\repos\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.AssemblyInfoInputs.cache
 C:\Users\suresh\source\repos\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.AssemblyInfo.cs
 C:\Users\suresh\source\repos\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.csprojAssemblyReference.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.csproj.CoreCompileInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.AssemblyInfoInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.AssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.Models.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.ViewModels.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.General.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.Models.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.ViewModels.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.Models.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.General\bin\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.General\obj\Debug\netcoreapp3.1\Contestant.General.csproj.CopyComplete

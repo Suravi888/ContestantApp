@@ -18,3 +18,23 @@ C:\Users\suresh\source\repos\ContestantApp\Contestant.IDataRepository\bin\Debug\
 C:\Users\suresh\source\repos\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
 C:\Users\suresh\source\repos\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
 C:\Users\suresh\source\repos\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ICommon.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ViewModels.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.exe
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.deps.json
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.runtimeconfig.json
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.runtimeconfig.dev.json
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.IDataRepository.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ICommon.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ViewModels.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ViewModels.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\bin\Debug\netcoreapp3.1\Contestant.ICommon.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.csprojAssemblyReference.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.csproj.CoreCompileInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.AssemblyInfoInputs.cache
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.AssemblyInfo.cs
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.csproj.CopyComplete
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.dll
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.pdb
+F:\PRIYA STUFF\ContestantApp\Contestant.IDataRepository\obj\Debug\netcoreapp3.1\Contestant.IDataRepository.genruntimeconfig.cache
